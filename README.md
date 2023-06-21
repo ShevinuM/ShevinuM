@@ -23,4 +23,3 @@ CS Student | Music Fanatic | Tech Enthusiast
 - 💼 Connect with me on [LinkedIn]([https://linkedin.com/in/jane-doe](https://www.linkedin.com/in/shevinu-nawalage-a109371bb)https://www.linkedin.com/in/shevinu-nawalage-a109371bb)
 - 😄 Pronouns: he/him
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShevinuM&size_weight=0.5&count_weight=0.5&langs_count=10&hide_progress=true&theme=transparent)
