@@ -12,5 +12,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Shevinu 👋
+
+CS Student | Music Fanatic | Tech Enthusiast
+
+- 🏢 Currently completing my BSc in CS @ [MUN]([hh](https://www.mun.ca/main/about/).
+- 🌱 I’m currently learning Spring Boot
+- 🌐 Visit my [portfolio website](shevinu.dev)
+- 📫 Email me at shevinum.dev@gmail.com
+- 💼 Connect with me on [LinkedIn]([https://linkedin.com/in/jane-doe](https://www.linkedin.com/in/shevinu-nawalage-a109371bb)https://www.linkedin.com/in/shevinu-nawalage-a109371bb)
+- 😄 Pronouns: he/him
