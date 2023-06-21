@@ -22,3 +22,5 @@ CS Student | Music Fanatic | Tech Enthusiast
 - 📫 Email me at shevinum.dev@gmail.com
 - 💼 Connect with me on [LinkedIn]([https://linkedin.com/in/jane-doe](https://www.linkedin.com/in/shevinu-nawalage-a109371bb)https://www.linkedin.com/in/shevinu-nawalage-a109371bb)
 - 😄 Pronouns: he/him
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShevinuM)](https://github.com/anuraghazra/github-readme-stats)
