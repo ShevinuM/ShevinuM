@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 CS Student | Music Fanatic | Tech Enthusiast
 
-- 🏢 Currently completing my BSc in CS @ [MUN]([hh](https://www.mun.ca/main/about/).
+- 🏢 Currently completing my BSc in CS @ [MUN](https://www.mun.ca/main/about/).
 - 🌱 I’m currently learning Spring Boot
 - 🌐 Visit my [portfolio website](shevinu.dev)
 - 📫 Email me at shevinum.dev@gmail.com
