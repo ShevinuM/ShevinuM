@@ -20,7 +20,7 @@ CS Student | Music Fanatic | Tech Enthusiast
 
 - 🏢 Currently completing my BSc in CS @ [MUN](https://www.mun.ca/main/about/).
 - 🌱 I’m currently learning Spring Boot
-- 🌐 Visit my [portfolio website](shevinu.dev)
+- 🌐 Visit my [portfolio website](HTTP://shevinum.dev)
 - 📫 Email me at shevinum.dev@gmail.com
 - 💼 Connect with me on [LinkedIn]([https://linkedin.com/in/jane-doe](https://www.linkedin.com/in/shevinu-nawalage-a109371bb)https://www.linkedin.com/in/shevinu-nawalage-a109371bb)
 - 😄 Pronouns: he/him
