@@ -21,6 +21,6 @@ CS Student | Music Fanatic | Tech Enthusiast
 - 💬 Ask me about Data Structures and Algorithms
 - 🌐 Visit my [portfolio website](http://shevinum.dev)
 - 📫 How to reach me: shevinu.dev@gmail.com
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shevinu-nawalage-a109371bb)https://www.linkedin.com/in/shevinu-nawalage-a109371bb)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shevinu-nawalage-a109371bb)
 - 😄 Pronouns: he/him
 
