@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 CS Student | Music Fanatic | Tech Enthusiast
 
 - 🏢 I'm completing my BSc in CS @ [MUN](https://www.mun.ca/main/about/)
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Spring Boot, Docker
 - 💬 Ask me about Data Structures and Algorithms
 - 🌐 Visit my [portfolio website](http://shevinum.dev)
 - 📫 How to reach me: shevinu.dev@gmail.com
