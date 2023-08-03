@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 CS Student | Music Fanatic | Tech Enthusiast
 
 - 🏢 I'm completing my BSc in CS @ [MUN](https://www.mun.ca/main/about/)
-- 🌱 I’m currently learning JUnit5
+- 🌱 I’m currently learning JUnit5 & Mockito
 - 👨‍💻 I like learning new technologies and frameworks
 - 🌐 Visit my [portfolio website](http://shevinum.dev)
 - 📫 How to reach me: shevinu.dev@gmail.com
