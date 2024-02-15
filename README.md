@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 CS Student | Music Fanatic | Tech Enthusiast
 
 - 🏢 I'm completing my BSc in CS @ [MUN](https://www.mun.ca/main/about/)
-- 👨‍💻 I like learning new technologies and frameworks
+- 👨‍💻 I just like to code stuff to make my life better
 - 🌐 Visit my [portfolio website](http://shevinum.dev)
 - 📫 How to reach me: shevinu.dev@gmail.com
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shevinu-nawalage-a109371bb)
